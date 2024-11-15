@@ -1,6 +1,7 @@
 # ⏰ Hora de Codar  | Kotlin
 
 Bem-vindo(a) ao repositório #Hora de Codar! Aqui você encontra uma série de exercícios e pequenos projetos desenvolvidos em Kotlin, feitos para praticar conceitos de programação e explorar diferentes lógicas e funcionalidades da linguagem. Desde cálculos e manipulação de strings até o uso de estruturas de controle, esses desafios vão ajudar a fortalecer suas habilidades em Kotlin! 🚀
+
 📋 Conteúdo
 
 Alguns exemplos de tópicos explorados:
