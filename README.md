@@ -6,6 +6,6 @@ Bem-vindo(a) ao repositório *Hora de Codar!* Aqui você encontra uma série de 
 
 Alguns exemplos de tópicos explorados:
 
-    🧠 **Desafios de Lógica:** Estruturas condicionais, loops e tomadas de decisão
-    📐 **Atividades Variadas:** Exercícios com foco em manipulação de dados, como palavras, números, e outros tipos de entrada
-    🔄 **Programação Estrutural:** Pequenos projetos para desenvolver habilidades na criação de algoritmos e funções
+🧠 **Desafios de Lógica:** Estruturas condicionais, loops e tomadas de decisão
+📐 **Atividades Variadas:** Exercícios com foco em manipulação de dados, como palavras, números, e outros tipos de entrada
+🔄 **Programação Estrutural:** Pequenos projetos para desenvolver habilidades na criação de algoritmos e funções
